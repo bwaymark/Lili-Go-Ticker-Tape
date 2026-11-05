@@ -1,4 +1,4 @@
-# TickerTap
+# TickerTape
 
 A scrolling message ticker for the **LilyGO T-Display S3**. The messages live in a plain text file on a GitHub Gist, so you can change what the display says from any browser or laptop. No re-flashing, no IP addresses.
 
